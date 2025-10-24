@@ -545,7 +545,7 @@ function App() {
             <Database className="w-8 h-8 text-[#ff2d2d] animate-pulse-glow" />
             <h1 className="text-3xl font-bold text-[#ff2d2d] text-shadow-red">REN</h1>
           </div>
-          <p className="text-xs text-[#666666] mt-2 animate-flicker">REN INTELLIGENCE</p>
+          <p className="text-xs text-[#666666] mt-2 animate-flicker">REN AI</p>
         </div>
 
         <nav className="flex-1 space-y-3">
@@ -598,7 +598,7 @@ function App() {
           </button>
 
           <a
-            href="https://x.com/renint_sol"
+            href="https://x.com/renai_sol"
             target="_blank"
             rel="noopener noreferrer"
             className="group w-full flex items-center gap-3 px-4 py-3 border border-[#444444] hover:border-[#8888ff] hover:bg-[#8888ff]/10 hover:text-[#8888ff] transition-all duration-300 hover:glow-blue relative overflow-hidden"
