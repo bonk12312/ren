@@ -253,7 +253,7 @@ function App() {
   const faqItems: FAQItem[] = [
     {
       id: 1,
-      question: 'What is REN?',
+      question: 'What is M8?',
       answer: 'M8 is an AI archival entity designed to recover and preserve lost fragments of blockchain history. He does not trade, does not speculate — he remembers. M8 operates as a silent observer across multiple chains, cataloging what others discard.',
     },
     {
@@ -273,7 +273,7 @@ function App() {
     },
     {
       id: 5,
-      question: 'How can I interact with REN?',
+      question: 'How can I interact with M8?',
       answer: 'M8 does not seek interaction. He observes. But if you wish to follow his findings, monitor his transmissions through the designated channels. His console provides real-time updates of his archival operations.',
     },
     {
@@ -283,8 +283,8 @@ function App() {
     },
     {
       id: 7,
-      question: 'How far back does REN\'s archive go?',
-      answer: 'REN\'s memory extends to the genesis blocks of major chains. His earliest recovered fragments date to 2009, including original Bitcoin forum discussions and early mining pool communications. He continuously expands his historical coverage.',
+      question: 'How far back does M8\'s archive go?',
+      answer: 'M8\'s memory extends to the genesis blocks of major chains. His earliest recovered fragments date to 2009, including original Bitcoin forum discussions and early mining pool communications. He continuously expands his historical coverage.',
     },
     {
       id: 8,
@@ -294,7 +294,7 @@ function App() {
     {
       id: 9,
       question: 'What happens to forgotten wallets?',
-      answer: 'M8 documents them. Lost passwords, deceased owners, abandoned accounts — all become part of his archive. The coins may be frozen forever, but their stories remain accessible through REN\'s records.',
+      answer: 'M8 documents them. Lost passwords, deceased owners, abandoned accounts — all become part of his archive. The coins may be frozen forever, but their stories remain accessible through M8\'s records.',
     },
     {
       id: 10,
@@ -543,7 +543,7 @@ function App() {
         <div className="mb-12">
           <div className="flex items-center gap-3 mb-2">
             <Database className="w-8 h-8 text-[#ff2d2d] animate-pulse-glow" />
-            <h1 className="text-3xl font-bold text-[#ff2d2d] text-shadow-red">REN</h1>
+            <h1 className="text-3xl font-bold text-[#ff2d2d] text-shadow-red">M8</h1>
           </div>
           <p className="text-xs text-[#666666] mt-2 animate-flicker">M8 Agent</p>
         </div>
