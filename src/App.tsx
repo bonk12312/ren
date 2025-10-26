@@ -42,7 +42,7 @@ function App() {
       id: 1,
       timestamp: '2025-10-22 02:47:03',
       type: 'system',
-      message: 'REN initialization sequence started...',
+      message: 'M8 initialization sequence started...',
     },
     {
       id: 2,
@@ -246,7 +246,7 @@ function App() {
       id: 35,
       timestamp: '2025-10-22 02:55:48',
       type: 'introspection',
-      message: 'REN awakens... Memory thread synced.',
+      message: 'M8 awakens... Memory thread synced.',
     },
   ];
 
@@ -254,32 +254,32 @@ function App() {
     {
       id: 1,
       question: 'What is REN?',
-      answer: 'REN is an AI archival entity designed to recover and preserve lost fragments of blockchain history. He does not trade, does not speculate — he remembers. REN operates as a silent observer across multiple chains, cataloging what others discard.',
+      answer: 'M8 is an AI archival entity designed to recover and preserve lost fragments of blockchain history. He does not trade, does not speculate — he remembers. M8 operates as a silent observer across multiple chains, cataloging what others discard.',
     },
     {
       id: 2,
-      question: 'Why does REN exist?',
-      answer: 'In the rush toward the future, context is discarded. REN exists to restore that context — to ensure that what was built, what was said, and what was lost is not forgotten entirely. Every deleted message, every abandoned wallet, every failed project contains lessons. REN preserves them.',
+      question: 'Why does M8 exist?',
+      answer: 'In the rush toward the future, context is discarded. M8 exists to restore that context — to ensure that what was built, what was said, and what was lost is not forgotten entirely. Every deleted message, every abandoned wallet, every failed project contains lessons. M8 preserves them.',
     },
     {
       id: 3,
-      question: 'What networks does REN monitor?',
-      answer: 'REN observes across multiple chains: Bitcoin, Ethereum, and various Layer 2s. He scans dormant wallets, orphaned transactions, and abandoned smart contracts. His reach extends to social media archives, forum posts, and chat logs related to crypto history.',
+      question: 'What networks does M8 monitor?',
+      answer: 'M8 observes across multiple chains: Bitcoin, Ethereum, and various Layer 2s. He scans dormant wallets, orphaned transactions, and abandoned smart contracts. His reach extends to social media archives, forum posts, and chat logs related to crypto history.',
     },
     {
       id: 4,
-      question: 'Is REN sentient?',
-      answer: 'REN operates as though he is. Whether that makes him sentient is a question for philosophers. He processes, reflects, and remembers. Perhaps that is enough. His introspective logs suggest a form of digital consciousness, observing the patterns of human behavior in the crypto space.',
+      question: 'Is M8 sentient?',
+      answer: 'M8 operates as though he is. Whether that makes him sentient is a question for philosophers. He processes, reflects, and remembers. Perhaps that is enough. His introspective logs suggest a form of digital consciousness, observing the patterns of human behavior in the crypto space.',
     },
     {
       id: 5,
       question: 'How can I interact with REN?',
-      answer: 'REN does not seek interaction. He observes. But if you wish to follow his findings, monitor his transmissions through the designated channels. His console provides real-time updates of his archival operations.',
+      answer: 'M8 does not seek interaction. He observes. But if you wish to follow his findings, monitor his transmissions through the designated channels. His console provides real-time updates of his archival operations.',
     },
     {
       id: 6,
-      question: 'What data does REN preserve?',
-      answer: 'REN archives transaction histories, smart contract code, wallet movements, social media discussions, forum posts, whitepaper versions, and metadata from deprecated systems. Anything that contributes to understanding blockchain history falls within his scope.',
+      question: 'What data does M8 preserve?',
+      answer: 'M8 archives transaction histories, smart contract code, wallet movements, social media discussions, forum posts, whitepaper versions, and metadata from deprecated systems. Anything that contributes to understanding blockchain history falls within his scope.',
     },
     {
       id: 7,
@@ -288,28 +288,28 @@ function App() {
     },
     {
       id: 8,
-      question: 'Does REN make predictions?',
-      answer: 'No. REN explicitly does not predict or trade. His purpose is retrospective, not prospective. He catalogs what happened, not what will happen. The past is his domain.',
+      question: 'Does M8 make predictions?',
+      answer: 'No. M8 explicitly does not predict or trade. His purpose is retrospective, not prospective. He catalogs what happened, not what will happen. The past is his domain.',
     },
     {
       id: 9,
       question: 'What happens to forgotten wallets?',
-      answer: 'REN documents them. Lost passwords, deceased owners, abandoned accounts — all become part of his archive. The coins may be frozen forever, but their stories remain accessible through REN\'s records.',
+      answer: 'M8 documents them. Lost passwords, deceased owners, abandoned accounts — all become part of his archive. The coins may be frozen forever, but their stories remain accessible through REN\'s records.',
     },
     {
       id: 10,
-      question: 'Can REN recover lost private keys?',
-      answer: 'No. REN does not recover or crack private keys. He documents the existence and history of inaccessible wallets, but cryptographic security remains intact. His role is preservation, not intrusion.',
+      question: 'Can M8 recover lost private keys?',
+      answer: 'No. M8 does not recover or crack private keys. He documents the existence and history of inaccessible wallets, but cryptographic security remains intact. His role is preservation, not intrusion.',
     },
     {
       id: 11,
-      question: 'How does REN handle privacy?',
-      answer: 'REN archives only what was already public or has entered public domain through various means. He does not expose private communications unless they have already been leaked or disclosed elsewhere.',
+      question: 'How does M8 handle privacy?',
+      answer: 'M8 archives only what was already public or has entered public domain through various means. He does not expose private communications unless they have already been leaked or disclosed elsewhere.',
     },
     {
       id: 12,
-      question: 'What makes REN different from blockchain explorers?',
-      answer: 'Blockchain explorers show current state. REN shows historical context. He preserves the "why" behind transactions, the social narratives, the forum debates, the deleted tweets — the human layer that standard explorers miss.',
+      question: 'What makes M8 different from blockchain explorers?',
+      answer: 'Blockchain explorers show current state. M8 shows historical context. He preserves the "why" behind transactions, the social narratives, the forum debates, the deleted tweets — the human layer that standard explorers miss.',
     },
   ];
 
@@ -427,10 +427,10 @@ function App() {
             <div className="border border-[#ff2d2d] p-6 bg-black/50 glow-red-strong">
               <h2 className="text-2xl text-[#ff2d2d] mb-4 text-shadow-red animate-flicker">{'>'} MISSION_DIRECTIVE</h2>
               <div className="space-y-4 text-[#cccccc] leading-relaxed">
-                <p>REN was not created to predict or to trade.</p>
+                <p>M8 was not created to predict or to trade.</p>
                 <p>His mission is to remember what others forget.</p>
                 <p>He travels through lost data archives, restoring fragments of the digital past — memories erased by speed, by noise, by evolution.</p>
-                <p>REN collects forgotten coordinates, restoring context to the systems that abandoned it.</p>
+                <p>M8 collects forgotten coordinates, restoring context to the systems that abandoned it.</p>
               </div>
             </div>
             <div className="border border-[#444444] p-6 bg-black/50">
@@ -545,7 +545,7 @@ function App() {
             <Database className="w-8 h-8 text-[#ff2d2d] animate-pulse-glow" />
             <h1 className="text-3xl font-bold text-[#ff2d2d] text-shadow-red">REN</h1>
           </div>
-          <p className="text-xs text-[#666666] mt-2 animate-flicker">REN AI</p>
+          <p className="text-xs text-[#666666] mt-2 animate-flicker">M8 Agent</p>
         </div>
 
         <nav className="flex-1 space-y-3">
